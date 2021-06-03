@@ -1,6 +1,6 @@
 import {Inject, Injectable} from "@angular/core";
 
-declare let toastr:any;
+declare let toastr;
 
 @Injectable()
 export class ToastrService {
